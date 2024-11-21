@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import dev.zarr.zarrjava.ZarrException;
+import dev.zarr.zarrjava.v2.codec.Codec;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
